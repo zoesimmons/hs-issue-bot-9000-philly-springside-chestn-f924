@@ -17,9 +17,10 @@ You can also thank them for the W3C validator, which is a service that checks ou
 
 3. Once you paste the code, click on `Check` at the bottom to have the validator check your code for any mistakes.
 
-4. Scroll down and take a look at the error messages to correct the code line by line. You won't understand a lot of the instructions (like “Heading cannot be a child of another heading.”) but you WILL be able to see what line the error is in. Just go back to your code and take a look. Based on what you know about HTML see if you can spot the problem (think about what a beginning and tag requires, make sure everything's spelled correctly, etc. Revisit [Lesson: HTML Tags] if you want to check something!)
+4. Scroll down and take a look at the error messages to correct the code line by line. You won't understand a lot of the instructions (like “Heading cannot be a child of another heading.”) but you WILL be able to see what line the error is in. Just go back to your code and take a look. Based on what you know about HTML see if you can spot the problem (think about what a beginning and tag requires, make sure everything is spelled correctly, etc. Revisit [Lesson: HTML Tags] if you want to check something!)
 
 5. Save the file then re-validate the code again by pasting it back into the validator until all errors are gone. This will make Issue Bot 9000 very happy!
 
-6. When Issue Bot 9000 is happy, you can click `I’m Done.`
+6. When Issue Bot 9000 is happy, make sure you save your changes in Nitrous.  Don't forget to enter `learn submit` in Nitrous in terminal to mark the lab as done in Learn (and store your work on GitHub!).
+
 
