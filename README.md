@@ -9,7 +9,7 @@ You can also thank them for the W3C validator, which is a service that checks ou
 
 ### Let's Get Started
 
-1. In Learn, click `Open in Nitrous`. Once you have the lab open in Nitrous, you'll want to open `index.html`,located in the `lib` directory of this lab, in the Nitrous text editor.
+1. In Learn, click `Open`. Once you have the lab open in Nitrous, you'll want to open `index.html`,located in the `lib` directory of this lab, in the Nitrous text editor.
 
 2. Copy the entire contents on `index.html` and paste it in the text box in the [W3C validator](https://validator.w3.org/#validate_by_input). 
 
