@@ -24,3 +24,5 @@ You can also thank them for the W3C validator, which is a service that checks ou
 6. When Issue Bot 9000 is happy, make sure you save your changes in Nitrous.  Don't forget to enter `learn submit` in Nitrous in terminal to mark the lab as done in Learn (and store your work on GitHub!).
 
 
+
+<a href='https://learn.co/lessons/hs-issue-bot-9000' data-visibility='hidden'>View this lesson on Learn.co</a>
